@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://marinaazevedoimoveis.com.br/sitemap.xml
