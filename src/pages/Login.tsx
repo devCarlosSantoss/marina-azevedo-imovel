@@ -10,7 +10,7 @@ export function Login() {
   const { isAuthenticated, login, user, logout } = useAuth();
 
   const [email, setEmail] = useState('marina@azevedoimoveis.com.br');
-  const [password, setPassword] = useState('demo1234');
+  const [password, setPassword] = useState('');
   const [showPassword, setShowPassword] = useState(false);
   const [isLoading, setIsLoading] = useState(false);
   const [error, setError] = useState('');
